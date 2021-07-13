@@ -71,7 +71,7 @@
     "serialport": "9.2.0",
     "socket.io": "2.4.1",
     "sqlite3": "5.0.2",
-    "ts-node": "10.0.0",
+    "ts-node": "10.1.0",
     "tslib": "2.3.0",
     "typeorm": "0.2.34",
     "uuid": "8.3.2"
